@@ -1,4 +1,4 @@
-<h1><strong>COMPUTER VISION NANODEGREE COURSE</strong></h1>
+<h1><strong>COMPUTER VISION NANODEGREE COURSE (Udacity)</strong></h1>
 
 <h4><i>Project Tasks to implement</i></h4>
 
