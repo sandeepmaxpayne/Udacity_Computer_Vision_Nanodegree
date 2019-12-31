@@ -7,4 +7,4 @@
 
 * **Project 2: Image Caption**
 
-* **Project: Landmark Detection & Tracking (SLAM)**
+* **Project 3: Landmark Detection & Tracking (SLAM)**
